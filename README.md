@@ -5,20 +5,15 @@ A reference for myself of various git commands
 
 # Commands that I have used in the past
 
-  http://2buntu.com/articles/1459/keeping-your-forked-repo-synced-with-the-upstream-source/
-
-  git fetch upstream
-  git rebase upstream/master
-  git push origin master
-
-  git checkout --track origin/TiMOS-DC_3_2_curren
-
-
-  git reflog
-  git rebase --interactive upstream/master
-
-  git -reset upstream/master
-  git clean -fdx
+    http://2buntu.com/articles/1459/keeping-your-forked-repo-synced-with-the-upstream-source/
+    git fetch upstream
+    git rebase upstream/master
+    git push origin master
+    git checkout --track origin/TiMOS-DC_3_2_current
+    git reflog
+    git rebase --interactive upstream/master
+    git -reset upstream/master
+    git clean -fdx
 
 
 # Theory for reference
